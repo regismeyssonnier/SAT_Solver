@@ -9,5 +9,5 @@ Write command:
 
 # 2. What is it exactly ?
 
-It's SAT solver who resolve implemented in the code like TSP, ADD numbers, etc... Look at the code.
+It's SAT solver who resolve implemented algorithm in the code like TSP, ADD numbers, etc... Look at the code.
 
