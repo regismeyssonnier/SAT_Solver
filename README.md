@@ -5,7 +5,7 @@
 
 Write command:
 
-```cpp g++ -std=c++17 -O3 -march=native -mtune=native -funroll-loops -finline-functions -fomit-frame-pointer -ftree-vectorize -ffast-math -fno-stack-protector -pipe -o Solver_3_SAT_Evo Solver_3_SAT_Evo.cpp ```
+```c g++ -std=c++17 -O3 -march=native -mtune=native -funroll-loops -finline-functions -fomit-frame-pointer -ftree-vectorize -ffast-math -fno-stack-protector -pipe -o Solver_3_SAT_Evo Solver_3_SAT_Evo.cpp ```
 
 # 2. What is it exactly ?
 
